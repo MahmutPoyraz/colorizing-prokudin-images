@@ -59,7 +59,7 @@ colorizing-prokudin-images/
 │
 ├── results/                 # Processed outputs saved here automatically
 │
-├── MahmutPoyrazProjectML.pdf   # Full technical report
+├── MahmutPoyrazProkudinReport.pdf   # Full technical report
 └── README.md
 
 
